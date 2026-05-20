@@ -1,6 +1,8 @@
 # alex-github-toolbox
 # Engineering Automation Toolbox
 
+# Engineering Automation Toolbox
+
 A curated library of GitHub repositories for engineering automation, Python, AI, CAD, document processing, data analysis, and future technical projects.
 
 ## Categories
@@ -48,3 +50,4 @@ Low / Medium / High
 
 ### Status
 Saved / Tested / In use / Archived
+```
