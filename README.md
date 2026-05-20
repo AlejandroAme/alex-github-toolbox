@@ -5,14 +5,14 @@ A curated library of GitHub repositories for engineering automation, Python, AI,
 
 ## Categories
 
-- Document Processing
-- AI / LLM Tools
-- Python Automation
-- CAD / Engineering Automation
-- Data Analysis
-- Web / GitHub Pages
-- GitHub Learning Resources
-- DevOps / Deployment
+- [Document Processing](Document-Processing.md)
+- [AI / LLM Tools](AI-LLM-Tools.md)
+- [Python Automation](Python-Automation.md)
+- [CAD / Engineering Automation](CAD-Engineering-Automation.md)
+- [Data Analysis](Data-Analysis.md)
+- [Web / GitHub Pages](Web-GitHub-Pages.md)
+- [GitHub Learning Resources](GitHub-Learning.md)
+- [DevOps / Deployment](DevOps-Deployment.md)
 
 ## Repository Index
 
